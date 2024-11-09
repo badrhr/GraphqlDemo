@@ -1,0 +1,3 @@
+type UserQuery{
+    getUserByID(id: ID): User
+}

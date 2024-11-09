@@ -1,0 +1,5 @@
+input UserInscription{
+    email: String
+    name: String
+    password: String
+}
